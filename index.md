@@ -4,3 +4,5 @@
 #### This is a H4 header
 ##### This is a H5 header
 ###### This is a H6 header
+
+![Interlocking S and D with text in gold and background in brown](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/San_Diego_Padres_%282020%29_cap_logo.svg/1024px-San_Diego_Padres_%282020%29_cap_logo.svg.png)
