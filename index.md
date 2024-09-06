@@ -12,3 +12,8 @@ def print_hello_world():
   print("Hello, world")
 
 print_hello_world()
+```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
